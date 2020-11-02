@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "UnicornDVC-Example/1.0.0": {
+        "runtime": {
+          "UnicornDVC-Example.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UnicornDVC-Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

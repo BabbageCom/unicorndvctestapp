@@ -1,0 +1,8 @@
+C:\Users\bob\source\repos\UnicornDVC-Example\WindowsFormsApp1\obj\Debug\UnicornDemoApp.csprojAssemblyReference.cache
+C:\Users\bob\source\repos\UnicornDVC-Example\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UnicornDemo.resources
+C:\Users\bob\source\repos\UnicornDVC-Example\WindowsFormsApp1\obj\Debug\UnicornDemoApp.csproj.GenerateResource.cache
+C:\Users\bob\source\repos\UnicornDVC-Example\WindowsFormsApp1\bin\Debug\UnicornDemoApp.exe
+C:\Users\bob\source\repos\UnicornDVC-Example\WindowsFormsApp1\bin\Debug\UnicornDemoApp.pdb
+C:\Users\bob\source\repos\UnicornDVC-Example\WindowsFormsApp1\obj\Debug\UnicornDemoApp.Properties.Resources.resources
+C:\Users\bob\source\repos\UnicornDVC-Example\WindowsFormsApp1\obj\Debug\UnicornDemoApp.exe
+C:\Users\bob\source\repos\UnicornDVC-Example\WindowsFormsApp1\obj\Debug\UnicornDemoApp.pdb
